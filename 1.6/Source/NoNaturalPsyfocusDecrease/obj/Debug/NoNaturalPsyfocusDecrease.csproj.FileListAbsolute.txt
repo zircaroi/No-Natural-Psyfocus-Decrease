@@ -1,0 +1,7 @@
+K:\SteamLibrary\steamapps\common\RimWorld\Mods\2448505614_NoNaturalPsyfocusDecrease\Assemblies\NoNaturalPsyfocusDecrease.dll
+K:\SteamLibrary\steamapps\common\RimWorld\Mods\2448505614_NoNaturalPsyfocusDecrease\Source\ClassLibrary1\obj\Debug\NoNaturalPsyfocusDecrease.csproj.AssemblyReference.cache
+K:\SteamLibrary\steamapps\common\RimWorld\Mods\2448505614_NoNaturalPsyfocusDecrease\Source\ClassLibrary1\obj\Debug\NoNaturalPsyfocusDecrease.csproj.CoreCompileInputs.cache
+K:\SteamLibrary\steamapps\common\RimWorld\Mods\2448505614_NoNaturalPsyfocusDecrease\Source\ClassLibrary1\obj\Debug\NoNaturalPsyfocusDecrease.dll
+K:\SteamLibrary\steamapps\common\RimWorld\Mods\2448505614_NoNaturalPsyfocusDecrease\Source\NoNaturalPsyfocusDecrease\obj\Debug\NoNaturalPsyfocusDecrease.csproj.AssemblyReference.cache
+K:\SteamLibrary\steamapps\common\RimWorld\Mods\2448505614_NoNaturalPsyfocusDecrease\Source\NoNaturalPsyfocusDecrease\obj\Debug\NoNaturalPsyfocusDecrease.csproj.CoreCompileInputs.cache
+K:\SteamLibrary\steamapps\common\RimWorld\Mods\2448505614_NoNaturalPsyfocusDecrease\Source\NoNaturalPsyfocusDecrease\obj\Debug\NoNaturalPsyfocusDecrease.dll
